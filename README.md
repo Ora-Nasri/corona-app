@@ -2,8 +2,8 @@
 Corona Management App
 
 # How to use the project
-BackEnd - by typing "npm start" in terminal 
-FrontEnd - by opening index.html file
+1. BackEnd - by typing "npm start" in terminal 
+2. FrontEnd - by opening index.html file
 
 On the home page you will see a list of exist members 
 
