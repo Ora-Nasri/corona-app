@@ -17,8 +17,6 @@ Also, you can find the Create button, where you can add a new member to the DB b
 
 
 
-BackEnd - node.js | mongoose | express
-FrontEnd - javaScript | html | css
 
 
 
