@@ -25,8 +25,8 @@ Also, you can find the Create button, where you can add a new member to the DB b
 ![image](https://user-images.githubusercontent.com/83973400/197399521-4b344c38-bb46-4902-915e-f24a7ba06398.png)
 
 # Technologies & Languages:
- node.js | express | mongoose | npm 
- javaScript | html | css 
+ node.js | express | mongoose | npm |
+ javaScript | html | css |
  mongoDB | postman
 
 
